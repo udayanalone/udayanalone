@@ -5,7 +5,7 @@ I’m a **third-year Computer Engineering student** at **KKWIEER, Nashik**, tryi
 ---
 
 ### 🎯 Who am I?  
-- A curious tech enthusiast who loves building apps using **C++**, **Java**, and **React Native**.  
+- A curious tech enthusiast who loves building apps using **Java**, and **React Native**.  
 - Someone who occasionally swaps studying for **gaming, binge-watching**, or dreaming up app ideas.  
 - Always looking for **new challenges** and fun projects to collaborate on!  
 
