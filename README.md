@@ -1,6 +1,6 @@
 # Hey there, I’m Udayan! 👋  
 
-I’m a **third-year Computer Engineering student** at **KKWIEER, Nashik**, trying to balance coding, learning, and a little bit of procrastination (oops!).  
+I’m a **Final-year Computer Engineering student** at **KKWIEER, Nashik**, trying to balance coding, learning.  
 
 ---
 
